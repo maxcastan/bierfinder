@@ -14,3 +14,7 @@ Software tools: Download Intellij IDE from jetbrains, use student license
 
 //app setup
 https://spring.io/guides/tutorials/spring-boot-kotlin/
+
+
+//How I believe to setup MySql DB--we have a Gradle app so don't worry about maven and pom.xml stuff
+https://spring.io/guides/gs/accessing-data-mysql/
